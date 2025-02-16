@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 Web Application Calculator
 
 Project Folder Hierarchy <br>
