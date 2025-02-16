@@ -16,10 +16,10 @@ calculator/ <br>
 This calculator contains 2 main functionality, Addition and Subtraction. The backend uses Flask and REST API to accept requests from frontend and the frontend uses HTML form and Javascript to interact with the backend. <br>
 
 To run the web app, activate the virtual environment and run server.py <br>
-> Windows: venv\Scripts\activate
-> Mac: source venv/bin/activate
-> pip install -r requirements.txt
-> python server.py
+> Windows: venv\Scripts\activate <br>
+> Mac: source venv/bin/activate <br>
+> pip install -r requirements.txt <br>
+> python server.py <br>
 
 For testing, I used the flask-testing package. <br>
 > pip install requests flask-testing
